@@ -1,0 +1,11 @@
+product_id,product_name,review,image_path
+P001,Wireless Earbuds,Great sound quality and battery life.,images/earbuds.jpg
+P002,Smartphone Case,Perfect fit and protects my phone.,images/case.jpg
+P003,Bluetooth Speaker,"Loud, clear sound with deep bass.",images/speaker.jpg
+P004,Portable Charger,Charges my phone quickly on the go.,images/charger.jpg
+P005,Noise Cancelling Headphones,Blocks out all background noise.,images/headphones.jpg
+P006,Smart Watch,Tracks my steps and heart rate accurately.,images/watch.jpg
+P007,Gaming Mouse,Responsive and great for gaming.,images/mouse.jpg
+P008,Laptop Stand,Elevates my laptop for better posture.,images/stand.jpg
+P009,Action Camera,Records smooth video even when moving.,images/camera.jpg
+P010,Fitness Tracker,Helps monitor my workouts efficiently.,images/tracker.jpg

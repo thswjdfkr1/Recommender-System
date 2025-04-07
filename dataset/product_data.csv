@@ -1,0 +1,11 @@
+product_id,review,image_path
+P001,Excellent sound quality and battery performance.,images/earbuds.jpg
+P002,Stylish case that fits perfectly and protects well.,images/case.jpg
+P003,"Deep bass with clear treble, highly portable.",images/speaker.jpg
+P004,Fast charging and compact design.,images/charger.jpg
+P005,Great noise cancellation and comfort for long use.,images/headphones.jpg
+P006,Tracks fitness metrics accurately and looks sleek.,images/watch.jpg
+P007,Ergonomic and precise for gaming sessions.,images/mouse.jpg
+P008,Adjustable and sturdy laptop support.,images/stand.jpg
+P009,Crisp 4K recording even in action scenes.,images/camera.jpg
+P010,Lightweight and perfect for workout tracking.,images/tracker.jpg
